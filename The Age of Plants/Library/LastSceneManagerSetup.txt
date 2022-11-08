@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/vsljr/Desktop/Test Bag1/SkyWorld12-Health-test/Assets/Scenes/DevScene/Dev.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
